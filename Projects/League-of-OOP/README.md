@@ -1,11 +1,14 @@
 Project purpose:
+
 	Implementation of a minimalistic version of a MMO console game.
 
 Implementation:
+
 	Entities: 
 		Hero - class that is used to display the main entity.
 		Skill - class that interacts with Hero and modifies specific attributes.
 		Land - class used just for double-dispatch purpose to get terrain damage amplifier.
+		
 	Class design:
 		- Visitor Pattern
 			-> Skill-Hero: Hero is visited by skill. Skill modifies specific fields in hero
