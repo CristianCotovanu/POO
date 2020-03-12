@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c85309a-3b8e-40fa-9f27-0e369deaef03" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SutLJBTY7u32Ud3NjI8N3MsFJx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tema - League of OOP/oop-league-of-oop-p1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="com.tema1.common.PlayerStrategies" />
+      <recent name="com.tema1.common.TypeIdentifier" />
+      <recent name="GoodIdentifiers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tema1.main.Main" />
+      <module name="Tema - SheriffOfNottingham" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;src/checker/tests/in/3round4players-mixed-test3.in&quot; &quot;src/tests.out&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tema1.goods.comparators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c85309a-3b8e-40fa-9f27-0e369deaef03" name="Default Changelist" comment="" />
+      <created>1572425251002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572425251002</updated>
+      <workItem from="1572425278170" duration="25000" />
+      <workItem from="1572425323473" duration="1459000" />
+      <workItem from="1572440203236" duration="251000" />
+      <workItem from="1572452843357" duration="212000" />
+      <workItem from="1572519327387" duration="5905000" />
+      <workItem from="1572603049317" duration="3852000" />
+      <workItem from="1572610991248" duration="5502000" />
+      <workItem from="1572632460066" duration="7453000" />
+      <workItem from="1572687899196" duration="1363000" />
+      <workItem from="1572689648949" duration="19394000" />
+      <workItem from="1572945903963" duration="389000" />
+      <workItem from="1573050040682" duration="2125000" />
+      <workItem from="1573059150432" duration="479000" />
+      <workItem from="1573069472041" duration="12631000" />
+      <workItem from="1573109371534" duration="26508000" />
+      <workItem from="1573299818589" duration="15541000" />
+      <workItem from="1573388500337" duration="1633000" />
+      <workItem from="1573664464454" duration="56000" />
+      <workItem from="1574699202490" duration="35000" />
+      <workItem from="1575029882349" duration="73000" />
+      <workItem from="1575033772996" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((HashMap)((Stand[])((PlayGame)this).playerStands)[1].table).entrySet().toArray()[3]" custom="com.tema1.storage.Stand[],com.tema1.main.PlayGame,java.util.HashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

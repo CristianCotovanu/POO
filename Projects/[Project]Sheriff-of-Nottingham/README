@@ -1,0 +1,33 @@
+324CD COTOVANU CRISTIAN
+
+Scopul proiectului:
+	Implementarea unei versiuni minimaliste a jocului Sheriff Of Nottingham
+
+Implementare:
+	In implementarea bunurilor, am folosit scheletul initial, insa l-am
+	modificat in contextul clasei GoodsFactory, am creeat clasele pentru constante	
+	bazate pe atributele bunurilor.	
+
+	In implementarea jucatorilor, am folosit clasele Player, din care deriva 
+	BasicPlayer, acesta fiind extins la randul lui de GreedyPlayer si BribePlayer
+	in interiorul lor se afla atat metodele de baza pentru cele 2 roluri ale unui 
+	jucator serif si comerciant, dar si metode auxiliare pentru gasirea bunului
+	ce respecta criteriile enuntate, verificarea existentei bunurilor
+	legale/ilegale, etc.
+
+	Clasele Bag si Stand sunt folosite pentru stocarea bunurilor, pe parcursul
+	unei runde - Bag, iar pentru bunurile ce au trecut de inspectie - Stand.
+	
+	Pentru rularea propriu-zisa a jocului am creat clasa PlayGame in care 
+	metoda start contine logica: avem un numar de runde dat de input, 
+	pentru fiecare runda, vom avea subrunde, unde fiecare jucator va urma
+	sa fie serif. O subrunda are structura urmatoare: fiecare carti, exceptie
+	facand seriful, trage carti, apoi cei care au tras carti, vor aplica
+	strategia de comerciant, seriful ii va inspecta pe comercianti,
+	jucatorii cu bunuri ce au trecut de inspectie isi vor pune acum
+	bunurile pe tarabe in final urmand ca bunurile ramase in mainile jucatorilor
+	sa fie aruncate.
+	Apoi dupa ce sunt jucate rundele si tarabele completate, se calculeaza bonusurile
+	mai intai cele pentru bunurile ilegale, apoi king and queen iar la final
+	se sorteaza jucatorii in functie de scor, anume numarul de bani obtinut, fiind
+	apoi afisat clasamentul final.
