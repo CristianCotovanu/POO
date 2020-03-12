@@ -1,5 +1,3 @@
-CRISTIAN COTOVANU 324CD
-
 Project purpose:
 	Implementation of a minimalistic version of a MMO console game.
 
