@@ -1,5 +1,3 @@
-CRISTIAN COTOVANU 324CD
-
 Project purpose:
 	Implementation of a minimalistic version of a MMO console game.
 
@@ -8,7 +6,6 @@ Implementation:
 		Hero - class that is used to display the main entity.
 		Skill - class that interacts with Hero and modifies specific attributes.
 		Land - class used just for double-dispatch purpose to get terrain damage amplifier.
-
 	Class design:
 		- Visitor Pattern
 			-> Skill-Hero: Hero is visited by skill. Skill modifies specific fields in hero
@@ -23,7 +20,6 @@ Implementation:
 		- Singleton used for Map.
 		- FileSystem used to manipulate io.
 		- Classes used for constants placed in every package they are relevant to.
-
 	Class interactions:
 		GameEngine has all game logic by which I mean hero interactions, eliminating dead characters.heroes
 		from the game, applying damage overtime and stun debuffs.
